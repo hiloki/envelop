@@ -29,6 +29,11 @@
 ## Frontend Framework
 
 Bootstrap / Boilerplate的なものを作る
+CSS3 Buttons的なギャラリーっぽいのをつくる
+
+## Design
+
+秀逸なデザイン、コードのサイトを収集する
 
 ## Seminar/ Workshop
 
